@@ -11,6 +11,7 @@ This project is hosted in GitHub Pages you can see <a href="https://luizgmelo.gi
 ## How open this project?
 Clone or Download this repository
 Example using Vscodium
-> git clone https://github.com/luizgmelo/sum-calculator.git
-> cd sum-calculator
-> codium .
+
+    > git clone https://github.com/luizgmelo/sum-calculator.git
+    > cd sum-calculator
+    > codium .
